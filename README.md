@@ -14,6 +14,7 @@ Riproducete il layout dell'immagine allegata utilizzando ciò che abbiamo visto 
 3. All'interno della cartella del repo, create una sottocartella img nella quale inserirete le immagini necessarie. 4. Sempre nella cartella repo create la cartella css nella quale inserirete creandolo/i il/i vostri file css.<br>
 Consigli<br>
 I nomi delle classi e degli id devono essere identificativi di quello che fanno: non chiamateli per esempio sezione_1, div_colorato o simile. Seguite la nomenclatura che ho utilizzato a lezione;<br>
+
 è consigliabile scrivere i nomi delle classi e degli id sempre in minuscolo;<br>
 Ricordatevi: il primo push deve essere del file README.md, il secondo con il file index.html e del file style.css (quest'ultimo vuoto)<br>
 Non perdete tempo sui dettagli: se non riuscite a posizionare precisamente una cosa o avete un problema simile, andate avanti. Fate più parti possibile della pagina sui dettagli ci tornate in un secondo momento magari con l'aiuto dei tutor se non riuscite a risolvere i problemi.<br>
