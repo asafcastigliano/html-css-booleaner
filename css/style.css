@@ -17,7 +17,7 @@
     padding-top: 3%;
 }
 
-#section-title{
+#div-title{
     padding-bottom: 15px;
 }
 
@@ -51,6 +51,64 @@
     font-size: 10px;
 }
 
-#section-imgs{
+#div-imgs{
     padding-bottom: 15px;
+}
+
+.paragraph{
+    padding-bottom: 15px;
+}
+
+.marked{
+    background-color: yellow;
+    color: black;
+}
+
+#lsit{
+
+}
+
+#table{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+}
+
+#table th, #table td {
+    width: 33.33%;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #b1e5f2;
+  }
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+#other{
+    color: gray;
+}
+
+.other-in-img{
+    color: white;
+}
+
+.other-in-img{
+    color: white;
+}
+
+.other:nth-of-type(1){
+    background-image: url("../img/monitor.jpg");
+}
+
+.other:nth-of-type(2){
+    background-image: url("../img/graph.jpg");
+}
+
+.other{
+    background-repeat: no-repeat;
+    background-size: 300px;
 }
